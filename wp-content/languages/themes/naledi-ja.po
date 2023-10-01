@@ -1,0 +1,254 @@
+# Translation of Themes - Naledi in Japanese
+# This file is distributed under the same license as the Themes - Naledi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-08 00:10:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Naledi\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Naledi"
+msgstr "Naledi"
+
+#: inc/block-patterns.php:251
+msgid "123 Main Street"
+msgstr "123 Main Street"
+
+#: inc/block-patterns.php:251
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: inc/block-patterns.php:215
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
+msgstr "左側に大きな画像、右側に見出しの付いたメディアとテキストブロック。見出しの下には区切りと説明の段落があります。"
+
+#: inc/block-patterns.php:250
+msgctxt "Block pattern description"
+msgid "A block with 3 columns that display contact information and social media links."
+msgstr "連絡先情報とソーシャルメディアリンクを表示する3カラムブロック。"
+
+#: inc/block-patterns.php:240
+msgctxt "Block pattern description"
+msgid "An overlapping columns block with two images and a text description."
+msgstr "2つの画像とテキスト説明付きの重ね合わせカラムブロック。"
+
+#: inc/block-patterns.php:227
+msgctxt "Block pattern description"
+msgid "Three images inside an overlapping columns block."
+msgstr "重ね合わせカラムブロック内の3つの画像。"
+
+#: inc/block-patterns.php:54
+msgid "Book Now"
+msgstr "今すぐ予約"
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:80 inc/block-styles.php:89
+msgid "Borders"
+msgstr "枠線"
+
+#: inc/block-patterns.php:251
+msgid "Cambridge, MA, 02139"
+msgstr "Cambridge, MA, 02139"
+
+#: inc/block-patterns.php:248
+msgid "Contact Information"
+msgstr "連絡先情報"
+
+#: inc/block-styles.php:71
+msgid "Dividers"
+msgstr "区切り"
+
+#: inc/block-styles.php:62
+msgid "Frame"
+msgstr "フレーム"
+
+#: inc/block-patterns.php:216
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: inc/block-patterns.php:212
+msgid "Media and Text Article Title"
+msgstr "メディアと投稿のテキストタイトル"
+
+#: inc/block-patterns.php:224
+msgid "Overlapping Images"
+msgstr "画像の重ね合わせ"
+
+#: inc/block-patterns.php:237
+msgid "Overlapping Images and Text"
+msgstr "画像とテキストの重ね合わせ"
+
+#: inc/block-patterns.php:169
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/block-styles.php:98
+msgid "Thick"
+msgstr "厚みのある"
+
+#: inc/block-patterns.php:73
+msgid "Virtual Tour"
+msgstr "バーチャルツアー"
+
+#: inc/block-patterns.php:251
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:183 inc/block-patterns.php:197
+msgctxt "sample content"
+msgid "Volunteer"
+msgstr "ボランティア"
+
+#: inc/block-patterns.php:125
+msgctxt "sample content"
+msgid "Tours"
+msgstr "ツアー"
+
+#: inc/block-patterns.php:116
+msgctxt "Block pattern description"
+msgid "Three columns with icons and text"
+msgstr "画像とテキストを含む3カラム"
+
+#: inc/block-patterns.php:89
+msgctxt "sample content"
+msgid "Stay updated and see our current events here."
+msgstr "最新の情報や、現在開催中のイベントはこちらからご覧いただけます。"
+
+#: inc/block-styles.php:26
+msgid "Overlap"
+msgstr "重ね合わせ"
+
+#: inc/block-patterns.php:241
+msgid "Our Tours"
+msgstr "ツアー"
+
+#: inc/block-patterns.php:153
+msgctxt "sample content"
+msgid "Our Shop"
+msgstr "ショップ"
+
+#: inc/block-patterns.php:97
+msgid "Our Products"
+msgstr "プロダクト"
+
+#: inc/block-patterns.php:139
+msgctxt "sample content"
+msgid "News"
+msgstr "ニュース"
+
+#: inc/block-patterns.php:129 inc/block-patterns.php:143
+#: inc/block-patterns.php:157
+msgctxt "sample content"
+msgid "Naledi&nbsp;is an experimental block-based theme. It is built to leverage the full-site editing functionality."
+msgstr "Naledi は実験的なブロックベースのテーマです。フルサイトの編集機能を活用するように構築されています。"
+
+#: inc/block-patterns.php:20
+msgid "Naledi Blocks"
+msgstr "Naledi ブロック"
+
+#: inc/block-patterns.php:228
+msgid "Animals and Nature"
+msgstr "動物と自然"
+
+#: inc/block-patterns.php:65
+msgid "Info Bar"
+msgstr "情報バー"
+
+#: inc/block-patterns.php:113
+msgid "Icons and Text"
+msgstr "アイコンとテキスト"
+
+#: inc/block-patterns.php:183 inc/block-patterns.php:197
+msgctxt "sample content"
+msgid "- Ana Segota,"
+msgstr "- アナ・セゴタ、"
+
+#: inc/block-patterns.php:241
+msgid "Lovely Nature"
+msgstr "すばらしき自然"
+
+#: inc/block-patterns.php:228
+msgid "Love Nature"
+msgstr "自然に親しもう"
+
+#: inc/block-patterns.php:68
+msgctxt "Block pattern description"
+msgid "Info bar with three columns"
+msgstr "情報バーを含む3カラム"
+
+#: inc/block-patterns.php:216 inc/block-patterns.php:241
+msgid "Winding veils round their heads, the women walked on deck."
+msgstr "ベールを頭に巻きつけて、女性たちは甲板に出た。"
+
+#: inc/block-patterns.php:172
+msgctxt "Block pattern description"
+msgid "Two columns overlapping testimonials"
+msgstr "2カラムが重ったお客様の声"
+
+#: inc/block-patterns.php:41
+msgctxt "sample content"
+msgid "Magic of the Nature"
+msgstr "自然の魔法"
+
+#: inc/block-patterns.php:228
+msgid "Magical Nature"
+msgstr "魔法のような自然"
+
+#: inc/block-patterns.php:216
+msgid "Magic of the Nature"
+msgstr "自然の魔法"
+
+#: inc/block-patterns.php:101
+msgctxt "sample content"
+msgid "Get to know our opening times, ticket prices and discounts."
+msgstr "営業時間、チケット料金、割引情報などをご紹介します。"
+
+#: inc/block-patterns.php:45
+msgctxt "sample content"
+msgid "Get to know our natural products made with love &amp; be the part of the better future."
+msgstr "愛を込めて作られた私たちのナチュラルプロダクトを知って、より良い未来の一部になりませんか。"
+
+#: inc/block-patterns.php:77
+msgctxt "sample content"
+msgid "Get a virtual tour of our shop. Ideal for schools and events."
+msgstr "ショップのバーチャルツアーをどうぞ。学校やイベントに最適です。"
+
+#: inc/block-patterns.php:85
+msgid "Current Events"
+msgstr "現在のイベント"
+
+#: inc/block-patterns.php:33
+msgid "Cover Image with Menu"
+msgstr "メニューを含むカバー画像"
+
+#: inc/block-patterns.php:183 inc/block-patterns.php:197
+msgctxt "sample content"
+msgid "Contributing makes me feel like I am being useful to the planet."
+msgstr "貢献することで、自分が地球の役に立っていると実感できます。"
+
+#: inc/block-patterns.php:36
+msgctxt "Block pattern description"
+msgid "A cover image with site logo and menu at the top"
+msgstr "上部にサイトのロゴとメニューを含むカバー画像"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Anariel Design"
+msgstr "Anariel Design"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.anarieldesign.com/free-full-site-editing-theme-naledi"
+msgstr "https://www.anarieldesign.com/free-full-site-editing-theme-naledi"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://anarieldesign.com/"
+msgstr "https://anarieldesign.com/"
